@@ -1,0 +1,26 @@
+######## Global properties #######################
+browser =chrome
+url = https://demo.nopcommerce.com/login?returnUrl=/
+###############################################
+username =Tester@gmail.com
+password =test123
+################## Login Page #############################
+username_id =Email
+password_id =Password
+LoginBtn_xpath =/html/body/div[6]/div[3]/div/div/div/div[2]/div[1]/div[2]/form/div[3]/button
+######################### Register page ########################################
+Nopcommerce
+nopCommerce demo store. Login
+nopCommerce is the open-source eCommerce solution. nopCommerce is available for free. It has everything you need to get started in selling physical an...
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+
+

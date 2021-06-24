@@ -1,0 +1,45 @@
+<dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.4.0</version>
+      <scope>test</scope>
+    </dependency>
+
+[//<dependency>
+  //    <groupId>org.testng</groupId>
+    //  <artifactId>testng</artifactId>
+    //  <version>7.4.0</version>
+    //  <scope>test</scope>
+   // </dependency> ]
+
+    <dependency>
+      <groupId>org.seleniumhq.selenium</groupId>
+      <artifactId>selenium-chrome-driver</artifactId>
+      <version>3.141.59</version>
+    </dependency>
+
+    <dependency>
+      <groupId>io.github.bonigarcia</groupId>
+      <artifactId>webdrivermanager</artifactId>
+      <version>4.4.3</version>
+    </dependency>
+
+      <dependency>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-firefox-driver</artifactId>
+          <version>3.141.59</version>
+      </dependency>
+
+      <dependency>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-edge-driver</artifactId>
+          <version>3.141.59</version>
+      </dependency>
+      <dependency>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-support</artifactId>
+          <version>3.141.59
+
+
+
+

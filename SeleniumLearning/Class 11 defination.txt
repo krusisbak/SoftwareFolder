@@ -1,0 +1,32 @@
+Built-in exceptions are the exceptions which are available in Java libraries. These exceptions are suitable to explain certain error situations. Below is the list of important built-in exceptions in Java. ... Arithmetic exception : It is thrown when an exceptional condition has occurred in an arithmetic operation.
+
+User Defined Exception or custom exception is creating your own exception class and throws that exception using 'throw' keyword. This can be done by extending the class Exception. ... The keyword “throw” is used to create a new Exception and throw it to the catch block.
+
+public static void main(String[] args) {
+
+        //Chromedriver - it's path.
+        System.setProperty("webdriver.chrome.driver","C:\\Users\\mayur\\IdeaProjects\\SeleniumLearning\\chromedriver.exe");
+
+        WebDriver driver = new ChromeDriver(); //Topcasting - child class object referred by parent interface reference variable.
+
+        driver.get("https://www.nopcommerce.com/");
+        driver.manage().window().maximize();
+
+        String url = driver.getCurrentUrl();
+        System.out.println(url);
+
+        String title = driver.getTitle();
+        System.out.println(title);
+
+        //Verify = expected vs actual results = Validation point
+
+        if (title.equals("Free and open-source eCommerce platform.")) {
+            System.out.println("The title is correct");
+        }
+        else {
+            System.out.println("The title is incorrect");
+        }
+
+        driver.close(); //closes the whole browser.
+        driver.quit(); //Terminates the session ID
+    }

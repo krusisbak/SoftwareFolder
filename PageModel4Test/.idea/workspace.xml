@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6e1433fe-bb1c-40b0-b4c4-88e707129e53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/PageModel10Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/src/main/java/org/example/BasePage10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/src/main/java/org/example/Utils10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/src/test/java/org/example/BaseTest10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel10Test/src/test/java/org/example/TestSuit10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel2Test/PageModel2Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel2Test/src/main/java/org/example/BaseClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel2Test/src/main/java/org/example/Utilis2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel2Test/src/test/java/org/example/Base2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel2Test/src/test/java/org/example/TestSuit2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/PageModel3Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/src/main/java/org/example/BasePage3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/src/main/java/org/example/Utils3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/src/test/java/org/example/BaseTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel3Test/src/test/java/org/example/TestSuit3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageModel4Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BasePage4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuit4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/PageModel5Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/src/main/java/org/example/BasePage5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/src/main/java/org/example/Utils5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/src/test/java/org/example/BaseTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel5Test/src/test/java/org/example/TestSuits5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/PageModel6Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/src/main/java/org/example/BasePage6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/src/main/java/org/example/Utils6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/src/test/java/org/example/BaseTest6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel6Test/src/test/java/org/example/TetsSuit6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/PageModel7Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/src/main/java/org/example/BasePage7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/src/main/java/org/example/Utils7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/src/test/java/org/example/BaseTest7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel7Test/src/test/java/org/example/TestSuit7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/PageModel8Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/src/main/java/org/example/BasePage8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/src/main/java/org/example/Utils8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/src/test/java/org/example/BaseTest8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel8Test/src/test/java/org/example/TestSuit8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/PageModel9Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/src/main/java/org/example/BasePage9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/src/main/java/org/example/Utils9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/src/test/java/org/example/BaseTest9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageModel9Test/src/test/java/org/example/TestSuit9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/PageObjectModelHomework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/BrowserSelector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/ComputerPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/HomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/LoadProperty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/NewOnlinePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/NikeProducts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/RegisterPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/ResultVerificationPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/SoftwarePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/classes/org/example/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/test-classes/BrowserDriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/test-classes/BrowserDriver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/test-classes/BrowserDriver/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/test-classes/BrowserDriver/msedgedriver92.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PageObjectModelHomework-main/target/test-classes/TestData/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/ProjectPageObjectModel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/src/test/java/org/example/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPageObjectModel/src/test/java/org/example/TestSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/Class 11 defination.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/SeleniumLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/msedgedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/operadriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/HomeWork2/DemoRegistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/HomeWork2/PraticeRegisterForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/HomeWork2/RegistrationForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/HomeWork3/BuyLenovo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/HomeWork3/CodeFromTutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassActionsSendKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassCustomCSSSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassDragAndDropConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassExplicit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassImplicitWaits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassNewFileProperty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassRightClickConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassScrollingPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ClassUtitlity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/ReadProp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumClass3/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/AlertPopupPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/DemoLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/DropDownHandlePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/WebDrivePagesConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/WebDriverBasic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/WebDriverEdge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/WebDriverFox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumLearning/src/main/java/SeleniumSession/WebDriverOpera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PraticeJavaFiles/hompage/KrutikDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PraticeJavaFiles/hompage/ManualTestingTopics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrialPractise/hompage/KrutikDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrialPractise/hompage/ManualTestingTopics.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TryPractiseFolder" beforeDir="false" afterPath="$PROJECT_DIR$/../TryPractiseFolder" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="ProjectId" id="1tWTg4yHC96rteMUEUb3loclX6t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e1433fe-bb1c-40b0-b4c4-88e707129e53" name="Default Changelist" comment="" />
+      <created>1622883955946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622883955946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
